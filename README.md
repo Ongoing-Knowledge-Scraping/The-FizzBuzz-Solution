@@ -3,7 +3,7 @@ The solution to the famous FizzBuzz game / question.
 
 ## The FizzBuzz Solution ##
 
-![FizzBuzz Solution](<https://github.com/Ongoing-Knowledge-Scraping/Total-Even-Numbers-1-to-100/blob/main/Even-Totaler.gif> "Running the code")
+![FizzBuzz Solution](<https://github.com/Ongoing-Knowledge-Scraping/The-FizzBuzz-Solution/blob/main/The-FizzBuzz-Solution.gif> "Running the code")
 
 ## View on Replit ##
 
